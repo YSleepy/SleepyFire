@@ -1,0 +1,25 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "LoadingScreen",
+  "Description": "Used for explicitly loading interfaces",
+  "Category": "Other",
+  "CreatedBy": "XSleepy",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EnabledByDefault": false,
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+	{
+	  "Name": "LoadingScreen",
+	  "Type": "Runtime",
+	  "LoadingPhase": "Default"
+	}
+  ]
+}
